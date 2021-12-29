@@ -1,0 +1,1 @@
+java -Djava.security.policy=policy.txt server.DynamicServer
